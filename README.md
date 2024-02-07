@@ -13,11 +13,11 @@ Date of Birth: 3rd Jan,2005
 # Course@IITGoa
 
 ## Autumn Semester:
-i. **MA101** Real Analysis *Dr. Sandipan De*
-ii. **PH101** Quantum Mechanics *Dr. Santosh Kumar Das*
-iii. **CH101** Physical Chemistry *Dr. E. Siva Iyer*
-iv.  **CH102** Inorganic and Organic Chemistry *Dr. Raja Mitra*
-v.  **CS101** Introduction to Programming *Dr. Clint P. George*
+1. **MA101** Real Analysis *Dr. Sandipan De*
+2. **PH101** Quantum Mechanics *Dr. Santosh Kumar Das*
+3. **CH101** Physical Chemistry *Dr. E. Siva Iyer*
+4.  **CH102** Inorganic and Organic Chemistry *Dr. Raja Mitra*
+5.  **CS101** Introduction to Programming *Dr. Clint P. George*
 
 ## Spring Semester:
 - **MA102** Linear Algebra *Dr. Kalpesh Haria*
