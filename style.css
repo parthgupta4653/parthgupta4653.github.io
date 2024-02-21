@@ -1,0 +1,53 @@
+.aboutme{
+    border: 2pt solid #000000;
+    background-color: lightsalmon;
+}
+.name{
+    font-weight: bold;
+    font-size: 13pt;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+#photo{
+    width: 172pt;
+    height: 172pt;
+    text-align: right;
+}
+.description{
+    color: blue;
+    font-family: sans-serif;
+
+}
+.me{display: flex;}
+
+.entire_table{
+    border-spacing: 8pt;
+    background-color: lightblue;
+    padding: 10pt;
+}
+.toprow{
+    text-decoration: underline;
+}
+.cColumn{text-align: center;}
+.lColumn,.cColumn,.rColumn{padding: 10pt;}
+
+#spring{
+    background-color: green;
+    border: 3pt solid black;
+}
+#autumn{
+    background-color: lightpink;
+    border: 3pt solid black;
+}
+.courses{display: flex;}
+body{
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg);
+    
+}
+
+.hobby{
+    border: 2px dotted black;
+    background-color: peru;
+    color: blueviolet;
+}
+
